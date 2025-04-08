@@ -9,5 +9,5 @@ Os dados foram obtidos através da API disponível: **IPEA - Atlas da Violência
 ## Passo 2: Extração de Dados sobre investimento em Segurança
 Os dados fora obtidos através de consulta do **Portal da Transparência** https://portaldatransparencia.gov.br/despesas/funcao?de=01%2F01%2F2019&ate=01%2F12%2F2019&funcaoSubfuncao=FN06&ordenarPor=funcao&direcao=asc
 
-## Passo 2: Extração de Dados sobre Educação
+## Passo 3: Extração de Dados sobre Educação
 Os dados fora obtidos através de consulta dO **INEP** 
