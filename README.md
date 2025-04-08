@@ -12,7 +12,18 @@ Os dados fora obtidos através de consulta do **Portal da Transparência** https
 ## Passo 3: Extração de Dados sobre Educação
 Os dados fora obtidos através de consulta dO **INEP** 
 
+<<<<<<< HEAD
 ## Passo 4: Modelagem dos dados
+=======
+
+## Passo 4: Modelagem de Dados
+# Projeto BI - Mapa Social
+
+## Visão Geral
+O projeto **Mapa Social** visa correlacionar índices de criminalidade com investimentos públicos e indicadores educacionais. A análise é feita por meio de dados integrados no Power BI, utilizando dados do Atlas da Violência, Censo Escolar, orçamento público e ocorrências de crimes.
+
+---
+>>>>>>> 8e484bdbc058ce05ba9bb8c57260182753ecf98f
 
 ## Tabelas do Modelo de Dados
 
